@@ -19,6 +19,7 @@ class School
       @roster[grade] = [name]
     binding.pry
   end
+  end
 
 
 end
