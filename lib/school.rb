@@ -14,5 +14,9 @@ class School
     @roster[grade] != nil ? @roster[grade] << name : @roster[grade] = [name]
   end
 
+  def grade(grade)
+
+  end
+
 
 end
